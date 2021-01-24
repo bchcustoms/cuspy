@@ -6,9 +6,8 @@ import click
 @click.command()
 def main(args=None):
     """Console script for meursing."""
-    click.echo("Replace this message by putting your code into "
-               "meursing.cli.main")
-    click.echo("See click documentation at https://click.palletsprojects.com/")
+    click.echo("Meursing is only relevant to certain agri-food commodities being imported to a European Union (EU) country from a 3rd country")
+    click.echo("This project is also a proof of concept (PoC) for other customs and trade data-driven initiatives, some open source and some not")
     return 0
 
 

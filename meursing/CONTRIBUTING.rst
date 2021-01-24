@@ -4,8 +4,9 @@
 Contributing
 ============
 
-Contributions are welcome, and they are greatly appreciated! Every little bit
-helps, and credit will always be given.
+Contributions are welcome, and they are greatly appreciated! 
+
+The author is also interested in hearing from developers that have an interest in development of other open source and closed source customs and trade projects.
 
 You can contribute in many ways:
 
